@@ -110,7 +110,7 @@ rag-multi-agent_chat/
 
 - **Project owner:** [quanho114](https://github.com/quanho114)  
 - Original concept and implementation inspired by:  
-  -Hailey Quach – Data Scientist @ IBM  
+  - Hailey Quach – Data Scientist @ IBM  
   - Ricky Shi  
   - Wojciech "Victor" Fulmyk – Data Scientist @ IBM, PhD candidate @ University of Calgary
 
